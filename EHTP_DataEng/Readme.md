@@ -1,4 +1,4 @@
-## Cours introductif au Deep Learning 
+## [French] Cours introductif au Deep Learning 
 
 Master Data Engineering EHTP: 26 participants (majoritairement des industriels, différents backgrounds)
 
